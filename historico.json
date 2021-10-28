@@ -1,122 +1,122 @@
 [
-{"Semestre":"2014.2","Disciplina":"Introdu��o � Engenharia de Materais","Nota":"8.0"}
+{"Semestre":"2014.2","Disciplina":"Introducao a Engenharia de Materais","Nota":"8.0"}
 ,
 {"Semestre":"2014.2","Disciplina":"Projeto de Materiais I","Nota":"8.5"},
-{"Semestre":"2014.2","Disciplina":"Introdu��o � Ci�ncia da Computa��o","Nota":"6.0"}
+{"Semestre":"2014.2","Disciplina":"Introducao a Ciencia da Computacao","Nota":"6.0"}
 ,
-{"Semestre":"2014.2","Disciplina":"C�lculo I","Nota":"2.5"}
+{"Semestre":"2014.2","Disciplina":"Calculo I","Nota":"2.5"}
 ,
-{"Semestre":"2014.2","Disciplina":"Desenho T�cnico para Engenharia","Nota":"9.0"}
+{"Semestre":"2014.2","Disciplina":"Desenho Tecnico para Engenharia","Nota":"9.0"}
 ,
-{"Semestre":"2014.2","Disciplina":"Qu�mica Geral e Inorg�nica","Nota":"7.5"}
+{"Semestre":"2014.2","Disciplina":"Quimica Geral e Inorganica","Nota":"7.5"}
 ,
 {"Semestre":"2015.1","Disciplina":"Projeto de Materiais II","Nota":"8.0"},
-{"Semestre":"2015.1","Disciplina":"C�lculo I","Nota":"6.0"}
+{"Semestre":"2015.1","Disciplina":"Calculo I","Nota":"6.0"}
 ,
-{"Semestre":"2015.1","Disciplina":"�lgebra Linear","Nota":"7.0"}
+{"Semestre":"2015.1","Disciplina":"Algebra Linear","Nota":"7.0"}
 ,
-{"Semestre":"2015.2","Disciplina":"C�lculo II","Nota":"5.0"}
+{"Semestre":"2015.2","Disciplina":"Calculo II","Nota":"5.0"}
 ,
-{"Semestre":"2015.2","Disciplina":"F�sica I","Nota":"6.0"}
+{"Semestre":"2015.2","Disciplina":"Fisica I","Nota":"6.0"}
 ,
-{"Semestre":"2015.2","Disciplina":"F�sica II","Nota":"2.5"}
+{"Semestre":"2015.2","Disciplina":"Fisica II","Nota":"2.5"}
 ,
 {"Semestre":"2016.1","Disciplina":"Fundamentos de Estruturas e Microestrutura dos Materiais","Nota":"6.5"},
-{"Semestre":"2016.1","Disciplina":"Termodin�mica p/ Eng. de Materais","Nota":"5.0"}
+{"Semestre":"2016.1","Disciplina":"Termodinamica p/ Eng. de Materais","Nota":"5.0"}
 ,
 {"Semestre":"2016.1","Disciplina":"Projeto de Materiais III","Nota":"8.0"},
-{"Semestre":"2016.1","Disciplina":"C�lculo II","Nota":"3.0"}
+{"Semestre":"2016.1","Disciplina":"Calculo II","Nota":"3.0"}
 ,
-{"Semestre":"2016.1","Disciplina":"F�sica II","Nota":"3.5"}
+{"Semestre":"2016.1","Disciplina":"Fisica II","Nota":"3.5"}
 ,
-{"Semestre":"2016.2","Disciplina":"Materiais Met�licos e suas Aplica��es","Nota":"6.0"}
+{"Semestre":"2016.2","Disciplina":"Materiais Metalicos e suas Aplicacoes","Nota":"6.0"}
 ,
-{"Semestre":"2016.2","Disciplina":"Qu�mica Org�nica","Nota":"3.5"}
+{"Semestre":"2016.2","Disciplina":"Quimica Organica","Nota":"3.5"}
 ,
-{"Semestre":"2016.2","Disciplina":"Reciclagem de Materiais e Valoriza��o de Res�duos","Nota":"7.5"}
+{"Semestre":"2016.2","Disciplina":"Reciclagem de Materiais e Valorizacao de Residuos","Nota":"7.5"}
 ,
-{"Semestre":"2016.2","Disciplina":"C�lculo II","Nota":"6.0"}
+{"Semestre":"2016.2","Disciplina":"Calculo II","Nota":"6.0"}
 ,
-{"Semestre":"2016.2","Disciplina":"Estat�stica","Nota":"7.0"}
+{"Semestre":"2016.2","Disciplina":"Estatistica","Nota":"7.0"}
 ,
-{"Semestre":"2016.2","Disciplina":"F�sica Experimental II","Nota":"5.5"}
+{"Semestre":"2016.2","Disciplina":"Fisica Experimental II","Nota":"5.5"}
 ,
-{"Semestre":"2017.1","Disciplina":"Qu�mica Experimental","Nota":"6.5"}
+{"Semestre":"2017.1","Disciplina":"Quimica Experimental","Nota":"6.5"}
 ,
-{"Semestre":"2017.1","Disciplina":"Materiais Cer�micos e suas Aplica��es","Nota":"7.0"}
+{"Semestre":"2017.1","Disciplina":"Materiais Ceramicos e suas Aplicacoes","Nota":"7.0"}
 ,
-{"Semestre":"2017.1","Disciplina":"Termodin�mica p/ Eng. de Materais","Nota":"7.5"}
+{"Semestre":"2017.1","Disciplina":"Termodinamica p/ Eng. de Materais","Nota":"7.5"}
 ,
-{"Semestre":"2017.1","Disciplina":"Qu�mica Org�nica","Nota":"7.5"}
+{"Semestre":"2017.1","Disciplina":"Quimica Organica","Nota":"7.5"}
 ,
-{"Semestre":"2017.1","Disciplina":"C�lculo III","Nota":"0.5"}
+{"Semestre":"2017.1","Disciplina":"Calculo III","Nota":"0.5"}
 ,
-{"Semestre":"2017.1","Disciplina":"F�sica II","Nota":"4.5"}
+{"Semestre":"2017.1","Disciplina":"Fisica II","Nota":"4.5"}
 ,
-{"Semestre":"2017.1","Disciplina":"F�sica Experimental II","Nota":"6.0"}
+{"Semestre":"2017.1","Disciplina":"Fisica Experimental II","Nota":"6.0"}
 ,
-{"Semestre":"2017.2","Disciplina":"Processamento de Materiais Cer�micos","Nota":"7.0"}
+{"Semestre":"2017.2","Disciplina":"Processamento de Materiais Ceramicos","Nota":"7.0"}
 ,
-{"Semestre":"2017.2","Disciplina":"Metodologia Cient�fica","Nota":"6.5"}
+{"Semestre":"2017.2","Disciplina":"Metodologia Cientifica","Nota":"6.5"}
 ,
-{"Semestre":"2017.2","Disciplina":"S�ntese e Qu�mica de Pol�meros","Nota":"7.0"}
+{"Semestre":"2017.2","Disciplina":"Sintese e Quimica de Polimeros","Nota":"7.0"}
 ,
-{"Semestre":"2017.2","Disciplina":"C�lculo III","Nota":"4.0"}
+{"Semestre":"2017.2","Disciplina":"Calculo III","Nota":"4.0"}
 ,
-{"Semestre":"2017.2","Disciplina":"Mec�nica dos S�lidos","Nota":"4.0"}
+{"Semestre":"2017.2","Disciplina":"Mecanica dos Solidos","Nota":"4.0"}
 ,
-{"Semestre":"2017.2","Disciplina":"F�sica II","Nota":"7.0"}
+{"Semestre":"2017.2","Disciplina":"Fisica II","Nota":"7.0"}
 ,
-{"Semestre":"2018.1","Disciplina":"Estrutura e Propriedades de Pol�meros","Nota":"7.0"}
+{"Semestre":"2018.1","Disciplina":"Estrutura e Propriedades de Polimeros","Nota":"7.0"}
 ,
-{"Semestre":"2018.1","Disciplina":"T�picos Especiais: Propriedades �pticas dos Materiais","Nota":"7.5"}
+{"Semestre":"2018.1","Disciplina":"Topicos Especiais: Propriedades Opticas dos Materiais","Nota":"7.5"}
 ,
-{"Semestre":"2018.1","Disciplina":"T�picos Especiais: Materiais El�tricos","Nota":"8.0"}
+{"Semestre":"2018.1","Disciplina":"Topicos Especiais: Materiais Eletricos","Nota":"8.0"}
 ,
-{"Semestre":"2018.1","Disciplina":"Mec�nica dos S�lidos","Nota":"7.5"}
+{"Semestre":"2018.1","Disciplina":"Mecanica dos Solidos","Nota":"7.5"}
 ,
-{"Semestre":"2018.1","Disciplina":"Fen�menos de Transporte","Nota":"6.0"}
+{"Semestre":"2018.1","Disciplina":"Fenomenos de Transporte","Nota":"6.0"}
 ,
-{"Semestre":"2018.1","Disciplina":"F�sica III","Nota":"6.5"}
+{"Semestre":"2018.1","Disciplina":"Fisica III","Nota":"6.5"}
 ,
-{"Semestre":"2018.1","Disciplina":"Ci�ncia-Tecnologia-Sociedade","Nota":"7.5"}
+{"Semestre":"2018.1","Disciplina":"Ciencia-Tecnologia-Sociedade","Nota":"7.5"}
 ,
-{"Semestre":"2018.2","Disciplina":"Processamento de Materiais Polim�ricos","Nota":"9.0"}
+{"Semestre":"2018.2","Disciplina":"Processamento de Materiais Polimericos","Nota":"9.0"}
 ,
-{"Semestre":"2018.2","Disciplina":"Processamento de Materiais Met�licos","Nota":"8.0"}
+{"Semestre":"2018.2","Disciplina":"Processamento de Materiais Metalicos","Nota":"8.0"}
 ,
-{"Semestre":"2018.2","Disciplina":"T�picos Especiais: materiais Magn�ticos","Nota":"9.0"}
+{"Semestre":"2018.2","Disciplina":"Topicos Especiais: materiais Magneticos","Nota":"9.0"}
 ,
 {"Semestre":"2018.2","Disciplina":"Ensaio de Materiais","Nota":"6.5"},
-{"Semestre":"2018.2","Disciplina":"Adminsitra��o e Economia","Nota":"8.0"}
+{"Semestre":"2018.2","Disciplina":"Adminsitracao e Economia","Nota":"8.0"}
 ,
-{"Semestre":"2018.2","Disciplina":"2 Educa��o, Direitos Humanos e Diversidade Sociocultural","Nota":"10.0"}
+{"Semestre":"2018.2","Disciplina":"2 Educacao, Direitos Humanos e Diversidade Sociocultural","Nota":"10.0"}
 ,
-{"Semestre":"2018.2","Disciplina":"C�lculo III","Nota":"8.5"}
+{"Semestre":"2018.2","Disciplina":"Calculo III","Nota":"8.5"}
 ,
-{"Semestre":"2019.1","Disciplina":"Est�gio Supervisionado I","Nota":"9.0"}
+{"Semestre":"2019.1","Disciplina":"Estagio Supervisionado I","Nota":"9.0"}
 ,
-{"Semestre":"2019.2","Disciplina":"Materiais V�treos","Nota":"8.0"}
+{"Semestre":"2019.2","Disciplina":"Materiais Vitreos","Nota":"8.0"}
 ,
-{"Semestre":"2019.2","Disciplina":"Nanocomp�sitos Polim�ricos","Nota":"9.5"}
+{"Semestre":"2019.2","Disciplina":"Nanocompositos Polimericos","Nota":"9.5"}
 ,
-{"Semestre":"2019.2","Disciplina":"T�picos Especiais: Fundamentos de Reologia","Nota":"7.5"}
+{"Semestre":"2019.2","Disciplina":"Topicos Especiais: Fundamentos de Reologia","Nota":"7.5"}
 ,
 {"Semestre":"2019.2","Disciplina":"Fisica IV","Nota":"9.0"},
-{"Semestre":"2019.2","Disciplina":"Materiais Comp�sitos","Nota":"9.0"}
+{"Semestre":"2019.2","Disciplina":"Materiais Compositos","Nota":"9.0"}
 ,
-{"Semestre":"2019.2","Disciplina":"T�picos Avan�ados em Materiais","Nota":"9.0"}
+{"Semestre":"2019.2","Disciplina":"Topicos Avancados em Materiais","Nota":"9.0"}
 ,
-{"Semestre":"2019.2","Disciplina":"F�sica Experimental III","Nota":"8.5"}
+{"Semestre":"2019.2","Disciplina":"Fisica Experimental III","Nota":"8.5"}
 ,
-{"Semestre":"2020.1","Disciplina":"Ci�ncia e Tecnologia dos Elast�meros","Nota":"9.5"}
+{"Semestre":"2020.1","Disciplina":"Ciencia e Tecnologia dos Elastomeros","Nota":"9.5"}
 ,
-{"Semestre":"2020.1","Disciplina":"Resist�ncia e Falha em Materiais","Nota":"7.5"}
+{"Semestre":"2020.1","Disciplina":"Resistencia e Falha em Materiais","Nota":"7.5"}
 ,
-{"Semestre":"2020.1","Disciplina":"Engenharia de Superf�cies","Nota":"8.0"}
+{"Semestre":"2020.1","Disciplina":"Engenharia de Superficies","Nota":"8.0"}
 ,
-{"Semestre":"2020.2","Disciplina":"Est�gio Supervisionado II","Nota":"9.0"}
+{"Semestre":"2020.2","Disciplina":"Estagio Supervisionado II","Nota":"9.0"}
 ,
-{"Semestre":"2021.1","Disciplina":"Est�gio Supervisionado III","Nota":"Em andamento"}
+{"Semestre":"2021.1","Disciplina":"Estagio Supervisionado III","Nota":"Em andamento"}
 
 ]
